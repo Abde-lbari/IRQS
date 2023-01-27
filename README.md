@@ -1,4 +1,4 @@
-# M2
+# AL
 
 # M2 contains the best tools for gathering information about sites, a section for solving most problems of the Kali Linux system, and the best section in the script, the metasploit section specialized in hacking operations.
 
@@ -79,9 +79,9 @@ Happy Hacker.
 
 # How to start a script?
 ```
-$ cd M2
+$ cd AL
 
 $ bash install.sh
 
-$ bash M2.sh
+$ bash AL7.sh
 
